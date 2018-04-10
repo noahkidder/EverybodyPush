@@ -18,7 +18,7 @@ public class App {
         System.out.println("How are you doing today, Noah?");
         System.out.println("I am doing good, how are you?");
         System.out.println("How is the weather like?");
-        
+        System.out.println("Too cold.");
     }
     
 }
