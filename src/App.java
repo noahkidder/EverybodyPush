@@ -16,6 +16,7 @@ public class App {
     public static void main(String[] args) {
         System.out.println("Hello Noah!");
         System.out.println("How are you doing today, Noah?");
+        System.out.println("I am doing good, how are you?");
     }
     
 }
